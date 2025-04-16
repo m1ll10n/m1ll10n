@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on scalable RAG app for my friends doing their studies. And also a streaming chatbot with TTS (if that somehow works on my end huh)
-- 🌱 I’m currently learning DevOps and looking into MLOps afterwards to adopt the best practices for creating an app. Might need to brush up on the Frontend too.
+- 🔭 I’m currently working on scalable RAG app for my friends doing their studies. And also a streaming chatbot with TTS (if that somehow works on my end)
 <!--
 **m1ll10n/m1ll10n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
