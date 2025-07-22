@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on scalable RAG app for my friends doing their studies. And also a streaming chatbot with TTS (if that somehow works on my end)
+- 🔭 Learning tests and deployments
 <!--
 **m1ll10n/m1ll10n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
